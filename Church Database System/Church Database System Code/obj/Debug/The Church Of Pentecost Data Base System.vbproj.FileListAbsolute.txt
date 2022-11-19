@@ -1,0 +1,69 @@
+G:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\bin\Debug\The Church Of Pentecost Data Base System.exe.config
+G:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\bin\Debug\The Church Of Pentecost Data Base System.exe
+G:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\bin\Debug\The Church Of Pentecost Data Base System.pdb
+G:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\bin\Debug\The Church Of Pentecost Data Base System.xml
+G:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Church_Main_Menu.resources
+G:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Member_Management_Form.resources
+G:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Resources.resources
+G:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The Church Of Pentecost Data Base System.vbproj.GenerateResource.Cache
+G:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The Church Of Pentecost Data Base System.exe
+G:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The Church Of Pentecost Data Base System.xml
+G:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The Church Of Pentecost Data Base System.pdb
+G:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Local_Management_Form.resources
+G:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Area_Management_Form.resources
+G:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.District_Management_Form.resources
+D:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\bin\Debug\The Church Of Pentecost Data Base System.exe.config
+D:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\bin\Debug\The Church Of Pentecost Data Base System.exe
+D:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\bin\Debug\The Church Of Pentecost Data Base System.pdb
+D:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\bin\Debug\The Church Of Pentecost Data Base System.xml
+D:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The Church Of Pentecost Data Base System.vbprojAssemblyReference.cache
+D:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Church_Main_Menu.resources
+D:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Area_Management_Form.resources
+D:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.District_Management_Form.resources
+D:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Local_Management_Form.resources
+D:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Member_Management_Form.resources
+D:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Resources.resources
+D:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The Church Of Pentecost Data Base System.vbproj.GenerateResource.cache
+D:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The Church Of Pentecost Data Base System.vbproj.CoreCompileInputs.cache
+D:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The Church Of Pentecost Data Base System.exe
+D:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The Church Of Pentecost Data Base System.xml
+D:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The Church Of Pentecost Data Base System.pdb
+G:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Service_Management_Form.resources
+G:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Asset_Management_Form.resources
+G:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Area_Ranking_Form.resources
+G:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Local_Ranking_Form.resources
+G:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.District_Ranking_Form.resources
+G:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Log_In_Form.resources
+D:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Asset_Management_Form.resources
+D:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Area_Ranking_Form.resources
+D:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.District_Ranking_Form.resources
+D:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Local_Ranking_Form.resources
+D:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Log_In_Form.resources
+D:\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Service_Management_Form.resources
+C:\Users\Pentecost\Documents\grace\computing\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\bin\Debug\The Church Of Pentecost Data Base System.exe.config
+C:\Users\Pentecost\Documents\grace\computing\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The Church Of Pentecost Data Base System.exe
+C:\Users\Pentecost\Documents\grace\computing\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The Church Of Pentecost Data Base System.xml
+C:\Users\Pentecost\Documents\grace\computing\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The Church Of Pentecost Data Base System.pdb
+C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\bin\Debug\The Church Of Pentecost Data Base System.exe.config
+C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\bin\Debug\The Church Of Pentecost Data Base System.exe
+C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\bin\Debug\The Church Of Pentecost Data Base System.pdb
+C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\bin\Debug\The Church Of Pentecost Data Base System.xml
+C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The Church Of Pentecost Data Base System.vbproj.AssemblyReference.cache
+C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The Church Of Pentecost Data Base System.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Church_Main_Menu.resources
+C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Area_Management_Form.resources
+C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Asset_Management_Form.resources
+C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Area_Ranking_Form.resources
+C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.District_Ranking_Form.resources
+C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Local_Ranking_Form.resources
+C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Log_In_Form.resources
+C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Service_Management_Form.resources
+C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.District_Management_Form.resources
+C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Local_Management_Form.resources
+C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Member_Management_Form.resources
+C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The_Church_Of_Pentecost_Data_Base_System.Resources.resources
+C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The Church Of Pentecost Data Base System.vbproj.GenerateResource.cache
+C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The Church Of Pentecost Data Base System.vbproj.CoreCompileInputs.cache
+C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The Church Of Pentecost Data Base System.exe
+C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The Church Of Pentecost Data Base System.xml
+C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\The Church Of Pentecost Data Base System\obj\Debug\The Church Of Pentecost Data Base System.pdb

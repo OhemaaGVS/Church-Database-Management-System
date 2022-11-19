@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{18D8CD78-D456-40F9-B4C2-F06D62413040}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>The_Church_Of_Pentecost_Data_Base_System.My.MyApplication</StartupObject>
+    <RootNamespace>The_Church_Of_Pentecost_Data_Base_System</RootNamespace>
+    <AssemblyName>The Church Of Pentecost Data Base System</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>The Church Of Pentecost Data Base System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>The Church Of Pentecost Data Base System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Church_Main_Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Church_Main_Menu.Designer.vb">
+      <DependentUpon>Church_Main_Menu.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Area_Management_Form.Designer.vb">
+      <DependentUpon>Area_Management_Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Area_Management_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Asset_Management_Form.Designer.vb">
+      <DependentUpon>Asset_Management_Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Asset_Management_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Area_Ranking_Form.Designer.vb">
+      <DependentUpon>Area_Ranking_Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Area_Ranking_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="District_Ranking_Form.Designer.vb">
+      <DependentUpon>District_Ranking_Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="District_Ranking_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Log_In_Form.Designer.vb">
+      <DependentUpon>Log_In_Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Log_In_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Local_Ranking_Form.Designer.vb">
+      <DependentUpon>Local_Ranking_Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Local_Ranking_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service_Management_Form.Designer.vb">
+      <DependentUpon>Service_Management_Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Service_Management_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="District_Management_Form.Designer.vb">
+      <DependentUpon>District_Management_Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="District_Management_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Local_Management_Form.Designer.vb">
+      <DependentUpon>Local_Management_Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Local_Management_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Member_Management_Form.Designer.vb">
+      <DependentUpon>Member_Management_Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Member_Management_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="The_Church_Of_Pentecost_Module.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Church_Main_Menu.resx">
+      <DependentUpon>Church_Main_Menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Area_Management_Form.resx">
+      <DependentUpon>Area_Management_Form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Asset_Management_Form.resx">
+      <DependentUpon>Asset_Management_Form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Area_Ranking_Form.resx">
+      <DependentUpon>Area_Ranking_Form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="District_Ranking_Form.resx">
+      <DependentUpon>District_Ranking_Form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Local_Ranking_Form.resx">
+      <DependentUpon>Local_Ranking_Form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Log_In_Form.resx">
+      <DependentUpon>Log_In_Form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service_Management_Form.resx">
+      <DependentUpon>Service_Management_Form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="District_Management_Form.resx">
+      <DependentUpon>District_Management_Form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Local_Management_Form.resx">
+      <DependentUpon>Local_Management_Form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Member_Management_Form.resx">
+      <DependentUpon>Member_Management_Form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Version of Instructions.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cop.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
