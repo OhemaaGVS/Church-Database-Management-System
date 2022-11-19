@@ -1,6 +1,6 @@
 ﻿Imports System.Data.OleDb
 Module The_Church_Of_Pentecost_Module
-    Public Const DatabasePath As String = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source='C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\NewTheChurchOfPentecostDataBase.mdb' ; Persist Security Info=False;" 'refers to the file path of the Access Databas
+    Public Const DatabasePath As String = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source='' ; Persist Security Info=False;" 'refers to the file path of the Access Database
     Public Connection As OleDbConnection
     Public Function DatabaseConnection() As Boolean 'can call this function whenever we need to open a connection to the database. It returns the result True or False depending on whether it opens the connection successfully.
         Try ' trying to see if there is a connection
@@ -13,15 +13,5 @@ Module The_Church_Of_Pentecost_Module
         End Try
     End Function
 End Module
-
-
-'"C:\Users\Grace\Downloads\grace github projects\project\The Church Of Pentecost Data Base System\NewTheChurchOfPentecostDataBase.mdb"'
-
-'"Provider=Microsoft.Jet.OLEDB.4.0;Data Source='G:\NewTheChurchOfPentecostDataBase.mdb' ; Persist Security Info=False;"
-'Public Const DatabasePath As String = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source='G:\TheChurchOfPentecostDataBase.mdb' ; Persist Security Info=False;"
-'"Provider=Microsoft.Jet.OLEDB.4.0;Data Source='G:\ChurchSytemOfficial.mdb' ; Persist Security Info=False;"
-'"Provider=Microsoft.Jet.OLEDB.4.0;Data Source='E:\my proper database\ChurchSystemOfficial.mdb' ; Persist Security Info=False;" school version
-'"Provider=Microsoft.Jet.OLEDB.4.0;Data Source='G:\TheChurchOfPentecostDataBase.mdb' ; Persist Security Info=False;"
-
 
 
